@@ -4,6 +4,17 @@
 
 ## Description:
 
+### Homepage for a Real Estate Website:
+
+- The page includes a sidebar for easy website navigation.
+- It features a header with a call-to-action button, aiding users in finding properties.
+- The header section also showcases a list of the top three realtors.
+- The features section clearly highlights the website's best services.
+- There's a dedicated section for customer stories.
+- Another section displays various properties, presenting details in cards.
+- A beautiful gallery section showcases images of our cozy sites.
+- Finally, the footer includes a navigation bar with links and copyright information.
+
 ## Used Technologies:
 
 - HTML5.

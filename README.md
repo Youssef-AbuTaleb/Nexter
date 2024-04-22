@@ -1,6 +1,6 @@
 # Nexter website
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)](https://youssef-abutaleb.github.io/Nexter)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen)]([https://youssef-abutaleb.github.io/Nexter](https://foodies-share-nextjs.netlify.app/))
 
 ## Description:
 
